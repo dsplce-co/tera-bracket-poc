@@ -1,0 +1,1 @@
+<p>{{ ( ( _somePrice.cash / _somePrice.period ) + ( _somePrice.cash / _somePrice.period ) )  }}</p>
