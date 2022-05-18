@@ -1,0 +1,1 @@
+<p>{{ _someTime.time | date(format="%Y-%m-%d %H:%M", timezone="Asia/Shanghai") }}</p>
